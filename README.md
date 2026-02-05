@@ -4,4 +4,5 @@
 
 # pull保持更新
 ## pull的示例场景
-在 new 分支下更改README文件，然后推送，在main下pull.
+在 new 分支下更改README文件，假装是别人的分支修改了之后，需要合并到main。 修改完成之后推送推送</br>。
+在main下pull.
